@@ -2,7 +2,7 @@
 
 [![NPM version](https://badge.fury.io/js/REPLACE.svg)](http://badge.fury.io/js/REPLACE)
 [![Build Status](https://travis-ci.org/hex7c0/REPLACE.svg?branch=master)](https://travis-ci.org/hex7c0/REPLACE)
-[![devDependency Status](https://david-dm.org/hex7c0/REPLACE/dev-status.svg)](https://david-dm.org/hex7c0/REPLACE#info=devDependencies)
+[![Dependency Status](https://david-dm.org/hex7c0/REPLACE/status.svg)](https://david-dm.org/hex7c0/REPLACE)
 
 Descrizione
 
