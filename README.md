@@ -1,7 +1,7 @@
 # [REPLACE](http://supergiovane.tk/#/REPLACE)
 
 [![NPM version](https://badge.fury.io/js/REPLACE.svg)](http://badge.fury.io/js/REPLACE)
-[![Build Status](https://travis-ci.org/hex7c0/REPLACE.svg?branch=master)](https://travis-ci.org/hex7c0/REPLACE)
+[![Build Status](https://travis-ci.org/hex7c0/REPLACE.svg)](https://travis-ci.org/hex7c0/REPLACE)
 [![Dependency Status](https://david-dm.org/hex7c0/REPLACE/status.svg)](https://david-dm.org/hex7c0/REPLACE)
 
 Descrizione
