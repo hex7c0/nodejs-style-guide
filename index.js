@@ -13,6 +13,13 @@
 /*
  * initialize module
  */
+// import
+try {
+
+} catch (MODULE_NOT_FOUND) {
+    console.error(MODULE_NOT_FOUND);
+    process.exit(1);
+}
 
 /*
  * functions
