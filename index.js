@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /**
  * @file REPLACE main
  * @module REPLACE
