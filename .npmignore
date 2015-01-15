@@ -1,4 +1,5 @@
 .git*
+.npmignore
 .project
 .jshintrc
 .jsdoc.json
