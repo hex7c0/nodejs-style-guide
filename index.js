@@ -12,7 +12,6 @@
 /*
  * initialize module
  */
-// import
 
 /*
  * functions
