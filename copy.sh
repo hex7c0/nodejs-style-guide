@@ -27,6 +27,7 @@ module=(
 ../nodejs-hash-performance/ 
 ../prerouting/ 
 ../protect/ 
+../regex-safer/ 
 ../remove_connection/ 
 ../remove_date/ 
 ../server-signature/ 

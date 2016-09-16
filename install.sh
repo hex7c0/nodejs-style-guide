@@ -10,7 +10,7 @@ fi
 echo -ne "$path is correct? [y] "; read in
 if [[ $in = "y" ]]; then
     # cfg copy
-    cp .gitignore .npmignore .travis.yml appvejor.yml Gruntfile.js History.md LICENSE README.md index.js package.json $path
+    cp .gitignore .npmignore .travis.yml appveyor.yml Gruntfile.js CHANGELOG.md LICENSE README.md index.js package.json $path
 
     # mkdir init
     cd $path
