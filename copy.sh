@@ -12,6 +12,7 @@ module=(
 ../express-sitemap/ 
 ../filename/ 
 ../grunt-endline/ 
+../grunt-safer-regex/ 
 ../json-decrypt/ 
 ../logger-request/ 
 ../logger-request-cli/ 
